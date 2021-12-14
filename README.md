@@ -2,7 +2,13 @@
 
 This is a simple Reactjs & TailwindCSS template with all the dependencies already set up and ready to go for development.
 
-## Available Scripts
+**List of modules and libraries pre-installed in this template**:
+- react (Core library for this template.)
+- tailwindcss (A utility-first CSS framework.)
+- postcss (Transform CSS with the power of JavaScript.)
+- postcss-cli (For installing Tailwind CSS as a PostCSS plugin.)
+- autoprefixer (PostCSS plugin to parse CSS and add vendor prefixes to CSS rules.)
+- concurrently (Run multiple commands concurrently.)
 
 In the project directory, you can run:
 
