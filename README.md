@@ -2,7 +2,7 @@
 
 This is a simple Reactjs & TailwindCSS template with all the dependencies already set up and ready to go for development.
 
-**List of modules and libraries pre-installed in this template**:
+**Modules and libraries pre-installed in this template**:
 - react (Core library for this template.)
 - tailwindcss (A utility-first CSS framework.)
 - postcss (Transform CSS with the power of JavaScript.)
