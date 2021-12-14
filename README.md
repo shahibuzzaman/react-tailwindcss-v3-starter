@@ -1,6 +1,6 @@
 # React v17 + Tailwind Css v3 Starter Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Reactjs & TailwindCSS template with all the dependencies already set up and ready to go for development.
 
 ## Available Scripts
 
