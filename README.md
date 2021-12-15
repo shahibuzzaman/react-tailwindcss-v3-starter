@@ -10,6 +10,16 @@ This is a simple Reactjs & TailwindCSS template with all the dependencies alread
 - autoprefixer (PostCSS plugin to parse CSS and add vendor prefixes to CSS rules.)
 - concurrently (Run multiple commands concurrently.)
 
+## Getting Started
+
+First, install dependencies & run the development server:
+
+```bash
+npm install && npm run start
+# or
+yarn install && yarn start
+```
+
 ## Usage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
